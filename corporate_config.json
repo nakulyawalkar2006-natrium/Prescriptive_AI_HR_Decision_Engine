@@ -1,0 +1,13 @@
+{
+  "currency": "INR",
+  "usd_to_inr_multiplier": 85.0,
+  "recruitment_agency_fee_pct": 0.10, 
+  "notice_period_months": 2.0,
+  "standard_retention_hike_pct": 0.12,
+  "role_friction_coefficients": {
+    "Sales Executive": 1.0,
+    "Research Scientist": 1.4,
+    "Software Engineer": 1.5,
+    "Manager": 1.8
+  }
+}
